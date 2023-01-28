@@ -1,0 +1,8 @@
+db:
+  Path: ./db
+eth2:
+  Network: prater
+  BeaconNodeAddr: https://ethereum-goerli-rpc.allthatnode.com
+eth1:
+  ETH1Addr: 0.0.0.0:30303
+OperatorPrivateKey: 
